@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "SONIC BOOM",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-03-19T16:22:23.258564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sonic Boom Boy",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/01_Sonic_Boom_Boy_Westworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sonic Boom",
+      "artist": "Roy Woods",
+      "has_synced": true,
+      "path": "select/02_Sonic_Boom_Roy_Woods.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sonic Boom",
+      "artist": "Venus Hum",
+      "has_synced": false,
+      "path": "select/03_Sonic_Boom_Venus_Hum.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sonic Boom",
+      "artist": "Gear Daddies",
+      "has_synced": true,
+      "path": "select/04_Sonic_Boom_Gear_Daddies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sonic Boom Boy",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/05_Sonic_Boom_Boy_Westworld.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sonic Boom - Crush 40 vs. Cash Cash",
+      "artist": "Crush 40",
+      "has_synced": true,
+      "path": "select/06_Sonic_Boom_-_Crush_40_vs._Cash_Cash_Crush_40.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sonic Boom (Crush 40 vs. Cash Cash Remix)",
+      "artist": "Crush 40 & Cash Cash",
+      "has_synced": true,
+      "path": "select/07_Sonic_Boom_(Crush_40_vs._Cash_Cash_Remix)_Crush_40_&_Cash_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sonic Boom Boy",
+      "artist": "Westworld",
+      "has_synced": true,
+      "path": "select/08_Sonic_Boom_Boy_Westworld.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sonic Boom",
+      "artist": "Chip",
+      "has_synced": true,
+      "path": "select/09_Sonic_Boom_Chip.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sonic Boom",
+      "artist": "Spencer Nilsen",
+      "has_synced": false,
+      "path": "select/10_Sonic_Boom_Spencer_Nilsen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "James (Sonic Boom Remix)",
+      "artist": "MGMT",
+      "has_synced": false,
+      "path": "select/11_James_(Sonic_Boom_Remix)_MGMT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SONIC BOOM",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_SONIC_BOOM_坂本_真綾.txt"
+    }
+  ]
+}
